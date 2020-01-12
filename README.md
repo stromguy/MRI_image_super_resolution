@@ -22,6 +22,8 @@ https://drive.google.com/drive/folders/1Kmn9bVfWjjyrB5lL8VHOV3vP3K134n3a?usp=sha
 **VALIDATION.ipynb:** -> This notebook is used for validating on test data which are stored in dataset_MRI_real and dataset_MRI_synthetic.
 **unzip_zip_file.ipynb:**-> Just useful notebook for zip/unzip files.
 
+## Example of synthetic image pair reconstruction
 ![result-synthetic](synthetic.png)
 
+## Example of real image pair reconstruction
 ![result-synthetic](real.png)
