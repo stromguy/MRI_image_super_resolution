@@ -22,6 +22,10 @@ https://drive.google.com/drive/folders/1Kmn9bVfWjjyrB5lL8VHOV3vP3K134n3a?usp=sha
 <br/>**VALIDATION.ipynb:** -> This notebook is used for validating on test data which are stored in dataset_MRI_real and dataset_MRI_synthetic.
 <br/>**unzip_zip_file.ipynb:**-> Just useful notebook for zip/unzip files.
 
+# HOW I RUN SCRIPTS?
+During my work I used Jupyter notebooks in Google Colab environment. So all my notebooks are prepared to run in Google Colab, they also include pip install for all necessary Python libraries that aren't installed by default. In **req.txt** file are all libraries that were installed in Google Colab. You don't need all of these but I copy all to the file to make sure.
+<br/> The easiest way for runinng those scripts is to store all files and folders in one place like in my Google Drive (link above). All you have to watch out is if all directory in scripts are correct. If you do this, running those scripts should not be an issue.
+
 ## Example of synthetic image pair reconstruction
 ![result-synthetic](synthetic.png)
 
