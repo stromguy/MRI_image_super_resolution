@@ -1,5 +1,5 @@
 # MRI_image_super_resolution
-During classes of Medical images analaysis on Faculty of Electrotehnics of University of Ljubljana, I tried to make super resolution model of MRI (Magnetic resonance imaging) with deep learning. I used source code from github (https://github.com/krasserm/super-resolution), which was modified form my aplication.
+During classes of Medical images analaysis on Faculty of Electrotehnics of University of Ljubljana, I tried to make super resolution model of MRI (Magnetic resonance imaging) with deep learning. I used source code from github (https://github.com/krasserm/super-resolution), which was modified for my aplication.
 I used EDSR and SRGAN architectures for learning neural network. I lerned two models. One dataset was made artificial with high resolution image downgraded to get low resolution image pair. Second were real pairs of LR and HR images.
 
 **On this Drive there are all neccesary folders, code, images etc.:
